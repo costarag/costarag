@@ -37,6 +37,8 @@ Helps families find verified caregivers with confidence. Smart onboarding, need-
 
 ## ⚡ Tech & Tools
 
+![Java](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,9 +48,3 @@ Helps families find verified caregivers with confidence. Smart onboarding, need-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=costarag&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
