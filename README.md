@@ -11,16 +11,16 @@
 
 15+ years building data-intensive, highly available platforms and teams across **sports**, **health**, and **telecom**. I've worked with multicultural teams across Brazil, Europe, and the US.
 
-I stay close to product, hands-on where it counts, and use AI pragmatically to reduce time to market and create faster feedback loops.
+I stay close to product, hands-on where it counts, and use AI to reduce time to market and create faster feedback loops.
 
 - Most recently led **70+ engineering and data people**
 - Team handled **10x growth** in active users and orders per sport event
-- Shipped faster by embedding AI into how we worked — kept systems stable through peak traffic
+- Shipped faster by embedding AI into how we worked, kept systems stable through peak traffic
 - Approach: grow strong leaders, give senior ICs real ownership, stay close enough to ask the right questions
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Recent (*public* AI-driven) Projects
 
 Three products bootstrapped with AI coding assistants — from idea to deployed MVP, in hours not weeks:
 
