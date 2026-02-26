@@ -22,7 +22,10 @@ I stay close to product, hands-on where it counts, and use AI to reduce time to 
 
 ## 🚀 Recent (*public* AI-driven) Projects
 
-Three products bootstrapped with AI coding assistants — from idea to deployed MVP, in hours not weeks:
+Recent builds bootstrapped with AI coding assistants — from idea to deployed MVP, in hours not weeks:
+
+#### [Deployment Risk Prediction](https://github.com/costarag/deployment-risk-prediction) — Forecast safer deploy windows with TimesFM
+Proof of concept that models deploy rhythms, traffic spikes from live events, and incident patterns to forecast weekly risk windows. Includes synthetic data generation, time-series forecasting, and deploy risk heatmaps.
 
 #### [Nexo](https://nexo-tan.vercel.app/) — AI-powered sales qualification for B2B teams
 Turn your company's playbook into an instant qualification engine. Paste your manifesto + a prospect name → get fit score (0–100), BANT signals, discovery questions, a 30-second pitch, and email template. Stateless, white-label ready.
