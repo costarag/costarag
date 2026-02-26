@@ -24,6 +24,9 @@ I stay close to product, hands-on where it counts, and use AI to reduce time to 
 
 Recent builds bootstrapped with AI coding assistants — from idea to deployed MVP, in hours not weeks:
 
+#### [CourtConcierge](https://github.com/costarag/court-concierge) — Responsive tennis booking orchestration (Letzplay + Calendar)
+Public booking page that merges live Letzplay court slots, owner availability, and weather into one flow. Booking executes two steps: reserve the court on Letzplay via Playwright and create the corresponding Google Calendar event, with optional email confirmation.
+
 #### [Deployment Risk Prediction](https://github.com/costarag/deployment-risk-prediction) — Forecast safer deploy windows with TimesFM
 Proof of concept that models deploy rhythms, traffic spikes from live events, and incident patterns to forecast weekly risk windows. Includes synthetic data generation, time-series forecasting, and deploy risk heatmaps.
 
