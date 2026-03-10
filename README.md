@@ -24,6 +24,9 @@ I stay close to product, hands-on where it counts, and use AI to reduce time to 
 
 Recent builds bootstrapped with AI coding assistants — from idea to deployed MVP, in hours not weeks:
 
+#### [PR Reviewer Evals](https://github.com/costarag/pr-reviewer-evals) — Measuring AI code review with evals engineers actually care about
+Eval suite that tests AI PR reviewers against 16 synthetic diffs with known ground truth. Measures issue detection, specificity, senior agreement, and false positives — the things that determine whether teams actually trust AI reviews or just dismiss them.
+
 #### [CourtConcierge](https://github.com/costarag/court-concierge) — Responsive tennis booking orchestration (Letzplay + Calendar)
 Public booking page that merges live Letzplay court slots, owner availability, and weather into one flow. Booking executes two steps: reserve the court on Letzplay via Playwright and create the corresponding Google Calendar event, with optional email confirmation.
 
